@@ -6,7 +6,7 @@
 
 Étudiant ingénieur spécialisé en Data & IA, je transforme la donnée en décision stratégique. Alliant une solide maîtrise technique (Python, SQL, Power BI) à une expérience concrète en management et en analyse de la performance, mon objectif est de piloter des projets data complexes en garantissant la sécurité et la fiabilité des informations.
 
-**➡️ [Consulter le Portfolio complet au format PDF](https://github.com/J-WU1/Portfolio-Data-Analysis/blob/main/Portfolio_Data_JacquesWU.pdf)**
+**➡️ [Consulter le Portfolio complet au format PDF](https://github.com/J-WU1/Portfolio/blob/main/Portfolio_Projets_JacquesWu.pdf)**
 
 ---
 
