@@ -20,7 +20,7 @@
 ### 2. Analyse des Tendances du Catalogue Netflix
 *   **Description :** Conception d'un dashboard interactif sur Tableau pour explorer les tendances du catalogue.
 *   **Technologies :** Tableau, Excel.
-*   **[Voir le code sur GitHub](https://github.com/J-WU1/Analyse_Netflix_Tableau)** | **[Explorer le dashboard interactif](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes))**
+*   **[Voir le code sur GitHub](https://github.com/J-WU1/Analyse_Netflix_Tableau)** | **[Explorer le dashboard interactif](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes)**
 
 ### 3. Analyse Exploratoire des Ventes de Jeux Vidéo
 *   **Description :** Une analyse de données de A à Z en utilisant Python et ses bibliothèques.
