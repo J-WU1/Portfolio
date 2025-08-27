@@ -1,6 +1,8 @@
 # Portfolio de Projets - Jacques WU
 
-[![Couverture de mon Portfolio](Couverture_Portfolio.png)](https://github.com/J-WU1/Portfolio/blob/main/Portfolio_Projets_JacquesWu.pdf)
+[![Couverture de mon Portfolio](Couverture_Portfolio.png)](https://github.com/J-WU1/Portfolio/raw/main/Portfolio_Projets_JacquesWu.pdf)
+
+*Cliquez sur l'image ci-dessus pour télécharger le portfolio complet au format PDF.*
 
 ## 🔹 À Propos
 
@@ -26,6 +28,14 @@
 *   **Description :** Une analyse de données de A à Z en utilisant Python et ses bibliothèques.
 *   **Technologies :** Python, Pandas, Matplotlib, Seaborn.
 *   **[Voir le code sur GitHub](https://github.com/J-WU1/Analyse_Ventes_JeuxVideo_Python)**
+
+---
+
+## 🔹 Contact
+
+*   **LinkedIn :** [linkedin.com/in/wu-jacques](https://www.linkedin.com/in/wu-jacques)
+*   **Email :** [jacques.wu@edu.ece.fr](mailto:jacques.wu@edu.ece.fr)
+  
 
 ---
 
