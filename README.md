@@ -15,17 +15,17 @@
 ### 1. Analyse de la Valeur Marchande des Joueurs de Football
 *   **Description :** Un projet BI complet sur Power BI pour analyser les facteurs influençant la valeur des joueurs.
 *   **Technologies :** Power BI, Power Query, DAX.
-*   **[Voir le code sur GitHub]((https://github.com/J-WU1/Analyse-Football-PowerBI))**
+*   **[Voir le code sur GitHub](https://github.com/J-WU1/Analyse-Football-PowerBI)**
 
 ### 2. Analyse des Tendances du Catalogue Netflix
 *   **Description :** Conception d'un dashboard interactif sur Tableau pour explorer les tendances du catalogue.
 *   **Technologies :** Tableau, Excel.
-*   **[Voir le code sur GitHub]((https://github.com/J-WU1/Analyse_Netflix_Tableau))** | **[Explorer le dashboard interactif]((https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes))**
+*   **[Voir le code sur GitHub](https://github.com/J-WU1/Analyse_Netflix_Tableau)** | **[Explorer le dashboard interactif](https://public.tableau.com/app/profile/jacques.wu/viz/AnalyseduCatalogueNetflix/Tableaudebord1?publish=yes))**
 
 ### 3. Analyse Exploratoire des Ventes de Jeux Vidéo
 *   **Description :** Une analyse de données de A à Z en utilisant Python et ses bibliothèques.
 *   **Technologies :** Python, Pandas, Matplotlib, Seaborn.
-*   **[Voir le code sur GitHub]((https://github.com/J-WU1/Analyse_Ventes_JeuxVideo_Python))**
+*   **[Voir le code sur GitHub](https://github.com/J-WU1/Analyse_Ventes_JeuxVideo_Python)**
 
 ---
 
