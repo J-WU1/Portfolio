@@ -1,6 +1,6 @@
 # Portfolio de Projets - Jacques WU
 
-![Couverture de mon Portfolio](https://github.com/J-WU1/Portfolio/blob/main/Couverture_Portfolio.png)
+[![Couverture de mon Portfolio](https://github.com/J-WU1/Portfolio/blob/main/Couverture_Portfolio.png)](https://github.com/J-WU1/Portfolio/blob/main/Portfolio_Projets_JacquesWu.pdf)
 
 ## 🔹 À Propos
 
